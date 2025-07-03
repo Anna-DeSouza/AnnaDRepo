@@ -1,6 +1,5 @@
 // C++ code
 // BME 261 Motor Workshop
-// NEW COMMENT
 
 // Define Servo Library
  #include <Servo.h>
@@ -42,7 +41,6 @@ void posServo(){
   delay(15);
 }
 
-
 void rotServo(){
   
   // Read Serial Input Values (default 0)
@@ -72,7 +70,6 @@ void rotServo(){
     }
   }
 }
-
 
 void loop() {
   //posServo(); //For Position Servo
