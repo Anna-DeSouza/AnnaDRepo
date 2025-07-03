@@ -2,6 +2,7 @@
 // BME 261 Motor Workshop
 // NEW COMMENT
 
+// Define Servo Library
  #include <Servo.h>
 
  // Define Servo Motors
